@@ -1,11 +1,52 @@
-🚀 New Project Alert: Creating a Code Editor with HTML, CSS, and JavaScript! 🚀
+# Code Editor
 
-I'm excited to share my latest project where I've built a simple and functional code editor using HTML, CSS, and JavaScript. This editor allows users to write HTML, CSS, and JavaScript code and see the output in real-time. It's a great tool for both beginners and experienced developers to experiment with code directly in the browser.
+## Description
+The Code Editor is a web-based application that provides users with a platform to write, edit, and preview code. This project is built using HTML, CSS, and JavaScript, offering a simple and intuitive interface for coding.
 
-Key Features:
-💻 Real-time code execution
-🎨 Simple and clean user interface
-📱 Responsive design for all devices
+## Features
+- Syntax highlighting for multiple programming languages
+- Real-time code preview
+- Customizable editor settings
+- Supports HTML, CSS, and JavaScript
+- User-friendly interface
 
-Project Overview:
-In this project, I've set up the basic HTML structure, styled the editor with CSS, and added JavaScript to handle the real-time rendering of code.
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## Installation
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/yourusername/code-editor.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd code-editor
+    ```
+3. Open `index.html` in your favorite web browser.
+
+## Usage
+1. Open the `index.html` file in your web browser.
+2. Write or paste your code into the editor.
+3. Select the language for syntax highlighting.
+4. View the real-time preview of your code in the preview pane.
+5. Customize editor settings such as font size and theme using the settings panel.
+
+## Contributing
+Contributions are welcome! Please follow these steps:
+1. Fork the repository.
+2. Create a new branch:
+    ```bash
+    git checkout -b feature-name
+    ```
+3. Make your changes and commit them:
+    ```bash
+    git commit -m 'Add some feature'
+    ```
+4. Push to the branch:
+    ```bash
+    git push origin feature-name
+    ```
+5. Open a pull request.
+
